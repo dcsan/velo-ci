@@ -1,3 +1,5 @@
+// client unit
+// 
 describe('PlayersService', function () {
   'use strict';
 

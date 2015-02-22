@@ -1,17 +1,16 @@
-notes
+## setting up Travis continuous integration with Meteor Velocity
 
-setup a travis CI account
-http://docs.travis-ci.com/user/getting-started/
-
-create a .travis.yml
+create your github repo
+if its open source you can use travis.ci for free also
 
 login into travis CI
+setup a travis CI account using your github ID
 https://travis-ci.org/
+find the repo name and set the project to ON
 
-set the project to ON
+http://docs.travis-ci.com/user/getting-started/
 
-
-
+create a .travis.yml in root of your project
 
 ## Misc Tips
 
