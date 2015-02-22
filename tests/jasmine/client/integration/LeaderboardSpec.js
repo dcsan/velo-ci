@@ -21,7 +21,8 @@ describe("Selecting Grace Hopper", function () {
   });
 
   it("should show Grace above the give points button", function () {
-    expect($("div.details > div.name").html()).toEqual("Grace Hopper");
+    // expect($("div.details > div.name").html()).toEqual("Grace Hopper");
+    expect(true).toBe(false);
   });
 
 
