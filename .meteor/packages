@@ -9,4 +9,5 @@ insecure
 mrt:moment@2.8.1
 sanjo:jasmine@0.12.3
 velocity:html-reporter
-velocity:console-reporter
+
+# velocity:console-reporter

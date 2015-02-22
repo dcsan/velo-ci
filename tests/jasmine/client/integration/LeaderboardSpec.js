@@ -1,3 +1,5 @@
+// client integration
+
 var selectGraceHopper = function (callback) {
   Session.set("selected_player", Players.findOne({name: "Grace Hopper"})._id);
   if (callback) {
@@ -8,6 +10,14 @@ var selectGraceHopper = function (callback) {
 var unselectPlayer = function () {
   Session.set("selected_player", null);
 };
+
+
+describe('shouldFail', function () {
+  it('should fail', function () {
+    expect(true).toBe(false);
+  });
+});
+
 
 describe("Selecting Grace Hopper", function () {
   beforeEach(function (done) {
