@@ -15,6 +15,9 @@ set the project to ON
 
 ## Misc Tips
 
+rm -rf packages/tests-proxy
+
+
 be careful not to hit the "create sample tests" button
 
 meteor --test will show the tests at the command line
