@@ -24,3 +24,5 @@ meteor --test will show the tests at the command line
 
 ci status: 
 ![status](https://api.travis-ci.org/dcsan/velo-ci.svg?branch=master)
+
+- [travis check](https://travis-ci.org/dcsan/velo-ci/builds)

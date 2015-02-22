@@ -1,6 +1,12 @@
 describe('PlayersService', function () {
   'use strict';
 
+  describe('fail', function () {
+    it('should fail', function () {
+      expect(true).toBe(false);
+    });
+  });
+
   describe('getPlayerList', function () {
     it('should ask for the players in primarily in descending score order, then in alphabetical order and return them', function () {
       var result = {};
