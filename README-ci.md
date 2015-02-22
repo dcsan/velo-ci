@@ -10,3 +10,11 @@ https://travis-ci.org/
 
 set the project to ON
 
+
+
+
+## Misc Tips
+
+be careful not to hit the "create sample tests" button
+
+meteor --test will show the tests at the command line
