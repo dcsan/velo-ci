@@ -7233,7 +7233,7 @@ var packageMetadata = {
             },
             "connections": {
               "type": "constant",
-              "value": 0
+              "value": 6
             },
             "timeout": {
               "type": "constant",
@@ -9644,7 +9644,7 @@ var packageMetadata = {
                 },
                 "pid": {
                   "type": "constant",
-                  "value": 4155
+                  "value": 4482
                 },
                 "getTaskName": {
                   "type": "function"
@@ -9722,7 +9722,7 @@ var packageMetadata = {
       "members": {
         "autoupdateVersion": {
           "type": "constant",
-          "value": "dNXiZQh75joFNRMms"
+          "value": "Y2kfo4xwXp8WEheG7"
         },
         "autoupdateVersionRefreshable": {
           "type": "constant",
